@@ -1,0 +1,4 @@
+#!/bin/bash
+
+### Windows Subsystem for Linux
+cmd.exe /c "stree.bat"
